@@ -12,3 +12,13 @@ tortoiseGit-languagePack
 Git-2.15.1.2
 
 
+git init // 创建仓库
+git add file.txt // 添加文件到仓库
+git commit -m " 更改信息" //提交添加文件
+
+git log （--pretty=oneline）// 查看历史记录
+git reset --hard HEAD^ // 退回上一个版本 HEAD表示当前版本 ^表示前一版本 ^^表示前面的两个版本
+git reflog // 查看命令历史记录
+git status // 查看状态
+
+
