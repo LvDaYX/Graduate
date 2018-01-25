@@ -1,0 +1,12 @@
+Linux£º
+sudo apt-get install git
+
+Windows£º
+Git¹ÙÍø
+tortoise¹ÙÍøÏÂÔØ
+
+tortoiseGit-2.5.0.0
+tortoiseGit-languagePack
+Git-2.15.1.2
+
+
