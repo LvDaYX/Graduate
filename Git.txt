@@ -56,8 +56,8 @@ git config --global user.email "email@example.com"  //绑定用户邮箱
 
 //创建版本库
 git init // 创建仓库
-git add file.txt // 添加文件到仓库
-git commit -m " 更改信息" //提交添加文件
+git add file.txt // 添加文件到暂存区
+git commit -m " 更改信息" //提交添加暂存区文件到分支
 
 //工作区和暂存区和版本回退
 git log （--pretty=oneline）// 查看历史记录
@@ -169,7 +169,7 @@ Git鼓励大量使用分支：
 
 
 
-
+sadfsa
 
 
 
